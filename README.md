@@ -1,4 +1,4 @@
-# Active Event Camera Simulator
+# AESIM: Active Event Camera Simulator
 [![AESIM](pictures/video_screenshot.jpg)](https://youtu.be/1CFUxxfl1Hs)
 
 An active event camera simulator based on [DAVIS simulator](https://github.com/uzh-rpg/rpg_davis_simulator) and [ESIM](https://github.com/uzh-rpg/rpg_esim)
