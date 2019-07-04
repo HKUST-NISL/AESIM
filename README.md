@@ -29,6 +29,6 @@ python Demo_AESIM_KeyMouseControl
 
 ## Acknowledgments
 
-First, we render[Learn OpenGL](https://learnopengl.com/) tutorial in our OpenGL rendering engine.
-[Pygame](https://www.pygame.org)
+We modified our code based on [Learn OpenGL](https://learnopengl.com/) tutorials in our OpenGL rendering engine.
+The display and control part is done by using [Pygame](https://www.pygame.org)
 that AESIM generates the simulated event data from rendered images. The code of this part is modified from the [DAVIS simulator](https://github.com/uzh-rpg/rpg_davis_simulator).
