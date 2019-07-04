@@ -6,7 +6,7 @@ An active event camera simulator based on [DAVIS simulator](https://github.com/u
 
 ## Features
 * Allow active control of 6DOF camera
-* 
+* Allow keyboard and mouse to control the camera
 
 ## Getting Started
 
@@ -53,6 +53,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+[Lean OpenGL](https://learnopengl.com/) tutorial in our OpenGL rendering engine.
