@@ -5,8 +5,9 @@
 An active event camera simulator based on [DAVIS simulator](https://github.com/uzh-rpg/rpg_davis_simulator) and [ESIM](https://github.com/uzh-rpg/rpg_esim)
 
 ## Features
-* Allow active control of 6DOF camera
+* Active control of 6DOF camera
 * Allow keyboard and mouse to control the camera
+* Allow dynamic 3D environment
 
 ## Getting Started
 
@@ -14,10 +15,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Install the following libraries:
+if you use python 3
 
 ```
-Give examples
+pip3 intall numpy pygame PyOpenGL pyrr opencv-python
 ```
 
 ### Installing
@@ -41,14 +43,6 @@ End with an example of getting some data out of the system or using it for a lit
 ## Running the tests
 
 Explain how to run the automated tests for this system
-
-
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 
 ## Acknowledgments
