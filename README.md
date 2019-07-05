@@ -3,7 +3,7 @@
 
 An active event camera simulator based on [DAVIS simulator](https://github.com/uzh-rpg/rpg_davis_simulator) and [ESIM](https://github.com/uzh-rpg/rpg_esim)
 
-## Features
+## New Features
 * Active control of 6DOF camera
 * Allow keyboard and mouse to control the camera
 * Allow dynamic 3D environment
