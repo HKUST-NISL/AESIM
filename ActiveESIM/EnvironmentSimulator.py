@@ -32,10 +32,6 @@ class EnvironmentSimulator:
         # glRotatef(self.cube_angle, 0, 1, 0)
 
     def getRenderImages(self, width, height):
-        data = glReadPixels(0, 0, width, height, GL_RGB, GL_FLOAT)
-        arr = np.fromstring(data, dtype="float32", count=width*height*3)
-        arr = arr.reshape((height, width, 3))
-
         R_raw = glReadPixels(0, 0, width, height, GL_RED, GL_FLOAT)
         G_raw = glReadPixels(0, 0, width, height, GL_GREEN, GL_FLOAT)
         B_raw = glReadPixels(0, 0, width, height, GL_BLUE, GL_FLOAT)
