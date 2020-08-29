@@ -25,7 +25,7 @@ This is the code for 2020 AICAS paper: **Retinal Slip Estimation and Object Trac
 Install the following libraries:
 
 ```
-pip3 intall numpy pygame PyOpenGL pyrr opencv-python
+pip intall numpy pygame PyOpenGL pyrr opencv-python
 ```
 
 ## Running the demo
