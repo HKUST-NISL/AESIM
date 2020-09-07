@@ -41,6 +41,5 @@ The display and control part is done by using [Pygame](https://www.pygame.org).<
 The part that [AESIM](https://github.com/ZHUQINGPENG/Active-Event-Camera-Simulator) generates the simulated event data from the rendered images is modified from the [DAVIS simulator](https://github.com/uzh-rpg/rpg_davis_simulator).
 
 ## Contact us
-Qingpeng ZHU: qzhuad@connect.ust.hk
-
+Qingpeng ZHU: qzhuad@connect.ust.hk<br />
 Bertram SHI: eebert@ust.hk
