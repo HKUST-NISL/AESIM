@@ -42,4 +42,5 @@ The part that [AESIM](https://github.com/ZHUQINGPENG/Active-Event-Camera-Simulat
 
 ## Contact us
 Qingpeng ZHU: qzhuad@connect.ust.hk
+
 Bertram SHI: eebert@ust.hk
