@@ -19,7 +19,7 @@ We apply AESIM to test our proposed alogrithm on velocity estimation and object 
 
 ```
 @ARTICLE{9268109,
-  author={Q. {Zhu} and J. {Triesch} and B. E. {Shi}},
+  author={Zhu, Qingpeng and Triesch, Jochen and Shi, Bertram E},
   journal={IEEE Journal on Emerging and Selected Topics in Circuits and Systems}, 
   title={An Event-by-Event Approach for Velocity Estimation and Object Tracking with an Active Event Camera}, 
   year={2020},
