@@ -15,6 +15,22 @@ This is the code for 2020 AICAS paper: **Retinal Slip Estimation and Object Trac
 }
 ```
 
+We apply AESIM to test our proposed alogrithm on velocity estimation and object tracking tasks. This alogrithm is published in IEEE JETCAS.
+
+```
+@ARTICLE{9268109,
+  author={Q. {Zhu} and J. {Triesch} and B. E. {Shi}},
+  journal={IEEE Journal on Emerging and Selected Topics in Circuits and Systems}, 
+  title={An Event-by-Event Approach for Velocity Estimation and Object Tracking with an Active Event Camera}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JETCAS.2020.3040329}
+ }
+```
+
+
 ## New Features
 * Active control of 6DOF camera
 * Allow keyboard and mouse to control the camera
