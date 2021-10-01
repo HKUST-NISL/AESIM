@@ -41,7 +41,7 @@ We apply AESIM to test our proposed alogrithm on velocity estimation and object 
 Install the following libraries:
 
 ```
-pip intall numpy pygame PyOpenGL pyrr opencv-python
+pip install numpy pygame PyOpenGL pyrr opencv-python
 ```
 
 ## Running the demo
